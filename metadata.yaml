@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25958
     wikipedia: http://en.wikipedia.org/wiki/Boles%C5%82aw_Prus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35499#The-Pharaoh-and-the-Priest--An-Historical-Novel-of-Ancient-Egypt
 gutenberg_issued: '2011-03-06'
 gutenberg_type: Text
 identifiers:
