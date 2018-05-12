@@ -1,0 +1,38 @@
+_repo: The-Pharaoh-and-the-Priest--An-Historical-Novel-of-Ancient-Egypt_35499
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Curtin, Jeremiah
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '1053'
+    url: http://www.gutenberg.org/2009/agents/1053
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Prus, Bolesław
+    aliases:
+    - Głowacki, Aleksander
+    - Glowacki, Aleksander
+    - Prus, Boleslaw
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '25958'
+    url: http://www.gutenberg.org/2009/agents/25958
+    wikipedia: http://en.wikipedia.org/wiki/Boles%C5%82aw_Prus
+description: ''
+gutenberg_issued: '2011-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35499'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Egypt -- History -- To 332 B.C. -- Fiction'
+title: 'The Pharaoh and the Priest: An Historical Novel of Ancient Egypt'
+url: http://www.gutenberg.org/ebooks/35499
